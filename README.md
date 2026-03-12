@@ -1,2 +1,4 @@
 # new_machine_test
-testing new laptop
+testing new laptop 
+
+Hi Zoe!
